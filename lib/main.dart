@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
-import 'package:flutter_app/route.dart';
+import 'package:flutter_app/route/route.dart';
 
 void main() => runApp(MyApp());
 
